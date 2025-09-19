@@ -15,13 +15,13 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","iamakii73")
+OWNER_USERNAME = getenv("OWNER_USERNAME","❆ 𝐀нн𝐞Б𝐞ллa ❆")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "kuku_music_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "AnneBella_X_MusicBot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "kuku music")
+BOT_NAME = getenv("BOT_NAME" , "❆ 𝐀𝐧𝐧𝐞𝐁𝐞𝐥𝐥𝐚 𝙼𝚞𝚜𝚒𝚌 ❆")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "kuku")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Anne")
 # ---------------------------------------------------------
 
 
@@ -41,7 +41,7 @@ LOGGER_ID = int(getenv("LOGGER_ID"))
 CLONE_LOGGER = LOGGER_ID
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 8041311342))
+OWNER_ID = int(getenv("OWNER_ID", 8112122512))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -58,7 +58,7 @@ API_KEY = getenv("API_KEY", '') # youtube song api key
 #----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://t.me/iamakii73")
+SOURCE = getenv("SOURCE", "https://t.me/AnneBella_MusicInfo")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/aditya88402/Heistsnetwork",
@@ -76,9 +76,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/iamakii73")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/TG_HEISTS")
-CHAT = getenv("CHAT", "https://t.me/TG_HEISTS")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/AnneBella_MusicInfo")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/AnneBelladmGc")
+CHAT = getenv("CHAT", "https://t.me/AnneBelladmGc")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -163,8 +163,8 @@ HELP_IMG_URL = getenv(
     "HELP_IMG_URL", "https://i.ibb.co/xPjc7tv/help-menu.jpg"
 )
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/fu6jk3.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/26nzoq.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/6f8cf3849825b326bb264-d3c59d284be1909d1e.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://graph.org/file/6f8cf3849825b326bb264-d3c59d284be1909d1e.jpg")
 PLAYLIST_IMG_URL = "https://files.catbox.moe/f2s4ws.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/z0gh23.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/2y5o3g.jpg"
